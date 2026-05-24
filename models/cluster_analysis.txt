@@ -1,0 +1,64 @@
+================================================================================
+K-MEANS CLUSTERING ANALYSIS
+================================================================================
+
+Cluster 0:
+  Size: 109 (2.6%)
+  CHD Cases: 40 (36.7%)
+  Feature means:
+    male: 0.48
+    age: 54.93
+    education: 1.72
+    currentSmoker: 0.36
+    cigsPerDay: 6.29
+    BPMeds: 0.08
+    prevalentStroke: 0.01
+    prevalentHyp: 0.53
+    diabetes: 1.00
+    totChol: 247.63
+    sysBP: 147.44
+    diaBP: 86.58
+    BMI: 27.96
+    heartRate: 79.50
+    glucose: 166.94
+
+Cluster 1:
+  Size: 2836 (66.9%)
+  CHD Cases: 298 (10.5%)
+  Feature means:
+    male: 0.43
+    age: 47.50
+    education: 2.02
+    currentSmoker: 0.54
+    cigsPerDay: 9.75
+    BPMeds: 0.00
+    prevalentStroke: 0.00
+    prevalentHyp: 0.01
+    diabetes: 0.00
+    totChol: 230.91
+    sysBP: 121.32
+    diaBP: 77.58
+    BMI: 24.86
+    heartRate: 74.54
+    glucose: 78.68
+
+Cluster 2:
+  Size: 1295 (30.5%)
+  CHD Cases: 306 (23.6%)
+  Feature means:
+    male: 0.43
+    age: 53.69
+    education: 1.83
+    currentSmoker: 0.40
+    cigsPerDay: 7.41
+    BPMeds: 0.09
+    prevalentStroke: 0.02
+    prevalentHyp: 0.95
+    diabetes: 0.00
+    totChol: 248.35
+    sysBP: 155.24
+    diaBP: 94.24
+    BMI: 27.68
+    heartRate: 78.51
+    glucose: 80.82
+

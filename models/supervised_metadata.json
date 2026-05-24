@@ -1,0 +1,6 @@
+{
+  "cv_score": 0.7321170794052811,
+  "test_auc": 0.6993779042813555,
+  "best_params": "{'clf': LogisticRegression(max_iter=2000, random_state=42), 'clf__C': 0.01, 'clf__penalty': 'l2', 'clf__solver': 'lbfgs'}",
+  "roc_auc": 0.6993779042813555
+}
